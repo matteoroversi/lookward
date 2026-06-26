@@ -1,0 +1,11 @@
+{
+  "name": "lookward",
+  "owner": { "name": "Matteo Roversi" },
+  "plugins": [
+    {
+      "name": "lookward",
+      "source": "./",
+      "description": "Build and tend a will-driven world model from the signal you already produce. Five lw- skills, markdown-as-truth, propose-don't-apply, default private."
+    }
+  ]
+}

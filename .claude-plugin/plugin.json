@@ -1,0 +1,8 @@
+{
+  "name": "lookward",
+  "version": "0.0.1",
+  "description": "Lookward — build and tend a will-driven world model (markdown, OKF-aligned) from the signal you already produce. Skills are prefixed lw-.",
+  "author": { "name": "Matteo Roversi" },
+  "license": "MIT",
+  "skills": "./skills"
+}

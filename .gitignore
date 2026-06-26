@@ -1,0 +1,13 @@
+# Derived, rebuildable — never source of truth (markdown + sources = truth; any .db is a derived view, see ontology/contract.md)
+.cache/
+*.db
+*.sqlite
+*.sqlite3
+
+# Secrets must never enter the substrate (Connector Contract)
+.env
+*.secret
+
+# Python cache
+__pycache__/
+*.pyc
